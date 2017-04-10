@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Documents/Memeify/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c04358e2554c8ee1c07d9887c43391a5942b3055">
+        <dex dex="/Users/admin/Documents/Memeify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c01eb5e21b3a4200148fa578db9e23ecffe4549a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Documents/Memeify/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/admin/Documents/Memeify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9a68f56bb3e40ddb62ec496cf389034a545044a8/classes.dex" />
+    </item>
+
+</items>
