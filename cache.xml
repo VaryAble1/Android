@@ -3,21 +3,48 @@
 
     <item
         is-multidex="true"
-        jar="/Users/admin/Documents/Memeify/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/admin/.android/build-cache/0ddef2d97bc3ed4ba0c23717580faf0355dd86d2/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.0"
-        sha1="c04358e2554c8ee1c07d9887c43391a5942b3055">
-        <dex dex="/Users/admin/Documents/Memeify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c01eb5e21b3a4200148fa578db9e23ecffe4549a/classes.dex" />
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/admin/Documents/CityGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c3ff59f80db5b05cc2effb66ffe34cc509f564a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/admin/Documents/Memeify/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/admin/.android/build-cache/f75f94d87f931c52dae346919688af9bdf4e4682/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.0"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/admin/Documents/CityGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ef1cb5ac79392f4b25d94ee97d356e30d6cc4eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/c461cab99df02aebec88157ee5fea341ef2a2b66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/admin/Documents/CityGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4f9211eb8b7fb68b74352b3a34796ae1406f210/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Documents/CityGuide/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
         sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/Users/admin/Documents/Memeify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9a68f56bb3e40ddb62ec496cf389034a545044a8/classes.dex" />
+        <dex dex="/Users/admin/Documents/CityGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_95ad8b6b6b5dcbff544d76e8ca0d000d0576a3da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Documents/CityGuide/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f9d423fd283860ca3269745c9cd44c67e7c79d">
+        <dex dex="/Users/admin/Documents/CityGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c81139f7c674bf9a44470f2cf159ef0187cd6aef/classes.dex" />
     </item>
 
 </items>
