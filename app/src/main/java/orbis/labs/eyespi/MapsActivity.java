@@ -44,4 +44,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.addMarker(new MarkerOptions().position(ttu).title("Texas Tech University #WreckEm"));
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(ttu, 13.0f));
     }
+
+    
 }
